@@ -1,0 +1,60 @@
+
+[
+    {
+    "id":1,
+"title":"Package",
+"des":"Add to Package",
+"price": 1000,
+"img":"tech4.jpg"
+        },
+        {
+            "id":1,
+        "title":"Package",
+        "des":"Add to Package",
+        "price": 2000,
+        "img":"tech4.jpg"
+                },
+                {
+                    "id":1,
+                "title":"Package",
+                "des":"Add to Package",
+                "price": 3000,
+                "img":"tech4.jpg"
+                        },
+                        {
+                            "id":1,
+                        "title":"Package",
+                        "des":"Add to Package",
+                        "price": 4000,
+                        "img":"tech4.jpg"
+                                },    {
+                                    "id":1,
+                                "title":"Package",
+                                "des":"Add to Package",
+                                "price": 5000,
+                                "img":"tech4.jpg"
+                                        },
+                                        {
+                                            "id":1,
+                                        "title":"Package",
+                                        "des":"Add to Package",
+                                        "price": 6000,
+                                        "img":"tech4.jpg"
+                                                },
+                                                {
+                                                    "id":1,
+                                                "title":"Package",
+                                                "des":"Add to Package",
+                                                "price": 7000,
+                                                "img":"tech4.jpg"
+                                                        },
+                                                        {
+                                                            "id":1,
+                                                        "title":"Package",
+                                                        "des":"Add to Package",
+                                                        "price": 8000,
+                                                        "img":"tech4.jpg"
+                                                                }
+                                                                    
+                                                        
+]
